@@ -1,0 +1,70 @@
+# User-specific files
+*.user                # User workspace settings for Visual Studio/IDE
+*.userprefs           # IDE preferences
+*.suo                 # Visual Studio user options
+*.VC.db               # Visual Studio Code browsing database
+*.VC.opendb           # Visual Studio Code open database
+
+# Logs and temporary files
+*.log                 # Log files
+*.tlog                # Temporary log files
+*.tmp                 # Temporary files
+*.pdb                 # Program database files (debugging info)
+*.obj                 # Object files
+*.o                   # Compiled object files
+*.so                  # Shared object files
+*.dll                 # Dynamic-link libraries
+*.exe                 # Executable files
+*.app                 # macOS application bundles
+*.dSYM                # Debug symbol files for macOS
+*.csproj.user         # Visual Studio project user settings
+*.pyc                 # Compiled Python files
+*.pyo                 # Optimized Python files
+
+# Generated folders
+Intermediate/         # Auto-generated files during builds
+Saved/                # Autosaves, temporary data, and logs
+Binaries/             # Compiled binaries for the project
+DerivedDataCache/     # Cache of derived data, safe to delete
+
+# Build cache
+Build/DerivedDataCache/  # Derived data cache in the Build directory
+
+# Backup and autosave files
+Backup/               # Unreal backup files
+*.autosave            # Autosave files
+*.tmp                 # Temporary files
+
+# Ignore plugin binaries and intermediates
+Plugins/**/Intermediate/ # Plugins' intermediate files
+Plugins/**/Binaries/     # Plugins' binaries
+
+# Editor-specific files
+.vscode/             # Visual Studio Code settings
+.idea/               # JetBrains IDE settings
+*.opensdf            # Open database file
+*.sdf                # SQL Server compact database file
+*.ipch               # Precompiled header cache
+*.csproj             # C# project files
+*.sln                # Visual Studio solution files
+*.suo                # Visual Studio user options
+
+# OS-specific files
+.DS_Store            # macOS Finder metadata
+Thumbs.db            # Windows Explorer thumbnail cache
+
+# Exclude temp and lock files
+*.orig               # Backup during merge conflicts
+*.bak                # Backup files
+*.swp                # Swap files (Linux)
+*.lock               # Lock files
+
+# Ensure critical directories are tracked
+!Config/             # Configuration files
+!Content/            # Game assets
+!Source/             # Source code
+
+# Documentation and metadata
+!*.md                # Markdown documentation files
+!LICENSE             # License file
+!README.*            # Readme file in any format
