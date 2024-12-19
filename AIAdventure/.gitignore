@@ -68,3 +68,4 @@ Thumbs.db            # Windows Explorer thumbnail cache
 !*.md                # Markdown documentation files
 !LICENSE             # License file
 !README.*            # Readme file in any format
+*.gguf
