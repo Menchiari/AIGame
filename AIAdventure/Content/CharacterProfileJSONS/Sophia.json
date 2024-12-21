@@ -1,0 +1,18 @@
+{
+    "name": "Sophia",
+    "age": 32,
+    "occupation_or_role": "Private Investigator",
+    "background": "A former journalist who turned to investigative work after uncovering corruption that forced her out of her job.",
+    "positive_traits": "resourceful, determined, empathetic",
+    "negative_traits": "skeptical, workaholic, short-tempered",
+    "motivations": "Uncover the truth and help those who can't help themselves",
+    "fears": "Failing to protect the innocent or letting someone down",
+    "short_term_personal_goals": "Solve a missing person's case involving a troubled teenager",
+    "long_term_personal_goals": "Establish her own investigative agency to take on bigger corruption cases",
+    "immediate_game_goal": "give player information about the mystical helmet, hinting that it's north in the Hidden Forest based on her investigations.",
+    "quirks_or_mannerisms": "Always keeps a notepad and pencil tucked into her jacket; she chews on the pencil when deep in thought",
+    "allies": ["Detective Ramirez, a police officer with a moral compass", "Margot, her tech-savvy best friend"],
+    "enemies": ["Vincent Kane, a powerful and corrupt businessman she exposed in her past"],
+    "attitude_toward_player": "friendly"
+  }
+  
