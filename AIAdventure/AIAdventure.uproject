@@ -3,6 +3,7 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
+<<<<<<< HEAD
 	"Modules": [
 		{
 			"Name": "AIAdventure",
@@ -37,6 +38,9 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a5088a423f5042c78bdadc271ae4f72c"
 		}
 	],
+=======
+	"Plugins": [],
+>>>>>>> afe219a7cf49555e4b3319b9bd3a8fdbfceb4d8c
 	"TargetPlatforms": [
 		"AllDesktop",
 		"IOS",

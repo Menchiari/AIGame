@@ -68,6 +68,7 @@ Thumbs.db            # Windows Explorer thumbnail cache
 !*.md                # Markdown documentation files
 !LICENSE             # License file
 !README.*            # Readme file in any format
+<<<<<<< HEAD
 *.gguf
 
 # Visual Studio 2015 user specific files
@@ -144,3 +145,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+=======
+>>>>>>> afe219a7cf49555e4b3319b9bd3a8fdbfceb4d8c
